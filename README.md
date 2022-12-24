@@ -1,2 +1,2 @@
 # libft
-standart function on C
+Implementation of the standard library in C
